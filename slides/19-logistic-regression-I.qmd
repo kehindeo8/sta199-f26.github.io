@@ -536,7 +536,7 @@ Go to [wooclap.com](https://app.wooclap.com/TCGEJHI) and use the code TCGEJHI.
 $$
 \log\left(\frac{p}{1-p}\right)
 =
-\beta_0+\beta_1x.
+\beta_0+\beta_1x + \epsilon
 $$
 
 -   The *logit* function $\log(p / (1-p))$ is an example of a *link function* that transforms the linear model to have an appropriate range
