@@ -13,10 +13,10 @@ execute:
 
 # Introduction
 
-In this lab you'll explore the relationship between distance and air time of flights out of RDU in 2024.
+In this lab, you'll explore the relationship between distance and air time of flights out of RDU in 2024.
 
-And you'll work in what's considered a pretty unlikely situation: you have access to population data -- all flights out of RDU in 2024!
-But we'll ask you to pretend that you didn't actually have access and you need to work with sample data.
+And you'll work in what's considered a pretty unlikely situation: you have access to population data—all flights out of RDU in 2024!
+But we'll ask you to pretend that you didn't actually have access, and you need to work with sample data.
 How? 
 Hang in there, get the population data loaded first, then we'll explain the next steps!
 
@@ -40,7 +40,7 @@ Commit and push your changes with a meaningful commit message and push to GitHub
 
 ## Packages
 
-In this lab we will work with the **tidyverse** and **tidymodels** packages.
+In this lab, we will work with the **tidyverse** and **tidymodels** packages.
 
 ```{r}
 #| eval: true
