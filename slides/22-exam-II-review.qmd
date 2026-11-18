@@ -34,7 +34,7 @@ ggplot2::theme_set(ggplot2::theme_gray(base_size = 16))
 
 We're working on a manuscript about experimenting with AI tools to support student learning, and we'd love to incorporate your feedback on your experience using Codex for homework feedback or other aspects of the course. We would be so appreciative if you would fill out the following **anonymous** survey:
 
-<https://forms.gle/pk88j5RXdFAs621k6Links>
+`[LINK REMOVED AFTER CLASS]`
 
 It should take no more than 5 minutes to complete.
 
@@ -42,7 +42,7 @@ It should take no more than 5 minutes to complete.
 
 ::: {.column width="30%"}
 
-![](images/22/sta199-ai.svg)
+`[QR CODE REMOVED AFTER CLASS]`
 
 :::
 
